@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.obj
+jspwTest.cpp
+jspwTest.exe
+jspwTest
+output.txt
+!input.txt
+!.vscode/
