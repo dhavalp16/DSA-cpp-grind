@@ -1,6 +1,7 @@
 *.exe
 *.o
 *.obj
+*.dSYM
 jspwTest.cpp
 jspwTest.exe
 jspwTest
